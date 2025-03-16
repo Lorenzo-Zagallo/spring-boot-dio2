@@ -1,2 +1,4 @@
-package com.learning.cursodio.exceptions;public class ProductPriceException {
+package com.learning.cursodio.exceptions;
+
+public class ProductPriceException extends Exception {
 }
